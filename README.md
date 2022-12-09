@@ -13,10 +13,9 @@ yarn add @thirdweb-dev/react @thirdweb-dev/sdk ethers react-hot-toast
 2. Install the project dependencies
 3. Create a .env.local file inside the main folder
 4. Add a variable by the name: NEXT_PUBLIC_SMART_CONTRACT
-5. Deploy this contract directly from the this Thirdweb Link: http://bit.ly/3VeNU6h
+5. Deploy this contract directly from the this Thirdweb Link: https://thirdweb.com/0x1a74BD9659d7170b7e1547a8FdD6A10fBd99371D/Complaint
 6. While deploying you will have to fill the constructor argument with an address for officer's address(suggestion: should be separate from deployer's address)
 7. Copy the smart contract address and assign it to NEXT_PUBLIC_SMART_CONTRACT that you had created
 8. Open terminal and run command: yarn dev
 
-⭐Give this repo a star if you found some value in it. 
-Thanks!
+
